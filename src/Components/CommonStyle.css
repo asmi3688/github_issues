@@ -1,0 +1,63 @@
+.fnt{
+	font-family: Helvetica,Arial,sans-serif;
+}
+.dangericon{
+	color:#dc3545;
+}
+.successicon{
+	color:#28a745;
+	background-color: white;
+}
+.leftpaddingnone{
+	padding-left:0px!important;
+}
+.rightpaddingnone{
+	padding-right:0px!important;
+}
+.paddingthree{
+	padding-top:3px;
+	height:34px;
+}
+.margintopfive{
+	margin-top:5px;
+}
+.orangecolor{
+	/*background-color:#f49118;*/
+	color:black;
+	margin-left: 5px;
+	height: 20px;
+    padding: .15em 4px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    border-radius: 2px;
+    box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
+}
+.redcolor{
+	background-color:#b5274d;
+	color:white;
+	margin-left: 5px;
+	height: 20px;
+    padding: .15em 4px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    border-radius: 2px;
+    box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
+}
+.yellowcolor{
+	background-color:#fbca04;
+	color:black;
+	margin-left: 5px;
+	height: 20px;
+    padding: .15em 4px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    border-radius: 2px;
+    box-shadow: inset 0 -1px 0 rgba(27,31,35,.12);
+}
+
+.onhover:hover{
+	cursor: pointer;
+}
